@@ -14,13 +14,14 @@ font-size: 24px;
 }
 
 .pp{
-    margin-left: 150px;
-    margin-top: 37px;
+    margin-left: 100px;
+    margin-top: 45px;
     font-family: "Roboto", sans-serif;
     font-size: 20pt;
     text-align: left;
     list-style-type: none;
     float: left;
+    text-align: start;
 }
 .pp:first-letter {
     font-family: "Open Sans", sans-serif;
@@ -75,5 +76,5 @@ font-size: 24px;
   font-family: "Roboto", sans-serif;
 font-size: 12pt;
 color: rgba(81, 81, 81, 255);
-text-align: center;
+margin-left: 640px;
 }
